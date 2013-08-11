@@ -1,0 +1,12 @@
+name: Greater Than One
+main: io.github.bobhostern.greaterthan1.GreaterThan1
+version: 0.0.2
+author: Bob Hostern
+website: http://bobhostern.github.io
+commands:
+  gt1:
+    aliases: [gto]
+    description: Use this to access the GreaterThanOne features
+    usage: /<command> <action>
+    permission: greaterthan1.gt1-access
+    permission-message: You don't have this permission.
