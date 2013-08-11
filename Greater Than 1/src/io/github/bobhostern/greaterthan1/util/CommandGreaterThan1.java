@@ -9,7 +9,7 @@ public final class CommandGreaterThan1 implements CommandResolver {
 	private GreaterThan1 plugin;
 	private String[][] commandList = {
 			{"reloadConfig", "Reloads config.yaml", "reloadConfig"},
-			{"listActions", "Prints out a list of available commands.", "listActions"},
+			{"action", "Prints out a list of available commands.", "action"},
 			{"help", "Prints out help on a command.", "help <action>"}
 	};
 	

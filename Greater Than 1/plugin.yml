@@ -9,4 +9,4 @@ commands:
     description: Use this to access the GreaterThanOne features
     usage: /<command> <action>
     permission: greaterthan1.gt1-access
-    permission-message: You don't have this permission.
+    permission-message: You don't have <permission>
